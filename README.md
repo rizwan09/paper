@@ -6,3 +6,11 @@
 4. Incorporating Copying Mechanism in Sequence-to-Sequence Learning https://arxiv.org/pdf/1603.06393.pdf
 5. Recursive Deep Models for Semantic Compositionality
 Over a Sentiment Treebank https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf
+
+
+Rading List:
+https://arxiv.org/pdf/1808.09367.pdf
+
+Summary:
+
+
